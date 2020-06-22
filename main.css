@@ -1,0 +1,75 @@
+span{
+    font-size: 190px
+}
+span{
+    color: ghostwhite
+}
+span{
+    background-color: black
+}
+span{
+    text-align: center
+}
+h1{
+    color: black
+}
+h1{
+    font-size: 40px
+}
+img{
+    height: 300px
+}
+
+img{
+    width: 300px
+}
+h4{
+    color:aquamarine
+}
+h4{
+    background-color:indigo
+}
+
+h4{
+    text-align: left
+}
+span{
+    text-align: center
+}
+@import url("https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap>");
+
+h1 {
+  font-family: 'Metal Mania';
+}
+
+
+
+body {
+  background-image: url("cool.gif");
+  background-attachment: fixed;
+}
+
+
+body {
+  background-image: url("ezgif-2-f596e9b35d01.gif"),url("cool.gif");
+  background-repeat: repeat,repeat
+  background-attachment: fixed,fixed;
+}
+
+
+
+.bad {
+  opacity: 0.5;
+}
+
+.city{
+    background-color: white
+}
+
+body {
+    background-color: black
+}
+
+h2{
+    color: white
+}
